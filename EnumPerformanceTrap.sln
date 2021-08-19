@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumPerformanceTrap", "EnumPerformanceTrap\EnumPerformanceTrap.csproj", "{E9F71161-CD43-4B3F-895D-5A5C1281FC2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9F71161-CD43-4B3F-895D-5A5C1281FC2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F71161-CD43-4B3F-895D-5A5C1281FC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F71161-CD43-4B3F-895D-5A5C1281FC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F71161-CD43-4B3F-895D-5A5C1281FC2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E771CB-2D68-4D83-B5F3-5E540087ACB0}
+	EndGlobalSection
+EndGlobal
